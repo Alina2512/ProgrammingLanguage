@@ -1,0 +1,5 @@
+/Users/alinamarkovic/GB/Machine_language/HomeworkML/ProgrammingLanguage/Lesson_5_HW/obj/Debug/net7.0/Lesson_5_HW.csproj.AssemblyReference.cache
+/Users/alinamarkovic/GB/Machine_language/HomeworkML/ProgrammingLanguage/Lesson_5_HW/obj/Debug/net7.0/Lesson_5_HW.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alinamarkovic/GB/Machine_language/HomeworkML/ProgrammingLanguage/Lesson_5_HW/obj/Debug/net7.0/Lesson_5_HW.AssemblyInfoInputs.cache
+/Users/alinamarkovic/GB/Machine_language/HomeworkML/ProgrammingLanguage/Lesson_5_HW/obj/Debug/net7.0/Lesson_5_HW.AssemblyInfo.cs
+/Users/alinamarkovic/GB/Machine_language/HomeworkML/ProgrammingLanguage/Lesson_5_HW/obj/Debug/net7.0/Lesson_5_HW.csproj.CoreCompileInputs.cache
