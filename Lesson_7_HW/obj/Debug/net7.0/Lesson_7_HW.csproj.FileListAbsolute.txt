@@ -1,0 +1,15 @@
+/Users/alinamarkovic/GB/Machine_language/HomeworkML/ProgrammingLanguage/Lesson_7_HW/obj/Debug/net7.0/Lesson_7_HW.csproj.AssemblyReference.cache
+/Users/alinamarkovic/GB/Machine_language/HomeworkML/ProgrammingLanguage/Lesson_7_HW/obj/Debug/net7.0/Lesson_7_HW.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alinamarkovic/GB/Machine_language/HomeworkML/ProgrammingLanguage/Lesson_7_HW/obj/Debug/net7.0/Lesson_7_HW.AssemblyInfoInputs.cache
+/Users/alinamarkovic/GB/Machine_language/HomeworkML/ProgrammingLanguage/Lesson_7_HW/obj/Debug/net7.0/Lesson_7_HW.AssemblyInfo.cs
+/Users/alinamarkovic/GB/Machine_language/HomeworkML/ProgrammingLanguage/Lesson_7_HW/obj/Debug/net7.0/Lesson_7_HW.csproj.CoreCompileInputs.cache
+/Users/alinamarkovic/GB/Machine_language/HomeworkML/ProgrammingLanguage/Lesson_7_HW/bin/Debug/net7.0/Lesson_7_HW
+/Users/alinamarkovic/GB/Machine_language/HomeworkML/ProgrammingLanguage/Lesson_7_HW/bin/Debug/net7.0/Lesson_7_HW.deps.json
+/Users/alinamarkovic/GB/Machine_language/HomeworkML/ProgrammingLanguage/Lesson_7_HW/bin/Debug/net7.0/Lesson_7_HW.runtimeconfig.json
+/Users/alinamarkovic/GB/Machine_language/HomeworkML/ProgrammingLanguage/Lesson_7_HW/bin/Debug/net7.0/Lesson_7_HW.dll
+/Users/alinamarkovic/GB/Machine_language/HomeworkML/ProgrammingLanguage/Lesson_7_HW/bin/Debug/net7.0/Lesson_7_HW.pdb
+/Users/alinamarkovic/GB/Machine_language/HomeworkML/ProgrammingLanguage/Lesson_7_HW/obj/Debug/net7.0/Lesson_7_HW.dll
+/Users/alinamarkovic/GB/Machine_language/HomeworkML/ProgrammingLanguage/Lesson_7_HW/obj/Debug/net7.0/refint/Lesson_7_HW.dll
+/Users/alinamarkovic/GB/Machine_language/HomeworkML/ProgrammingLanguage/Lesson_7_HW/obj/Debug/net7.0/Lesson_7_HW.pdb
+/Users/alinamarkovic/GB/Machine_language/HomeworkML/ProgrammingLanguage/Lesson_7_HW/obj/Debug/net7.0/Lesson_7_HW.genruntimeconfig.cache
+/Users/alinamarkovic/GB/Machine_language/HomeworkML/ProgrammingLanguage/Lesson_7_HW/obj/Debug/net7.0/ref/Lesson_7_HW.dll
