@@ -1,35 +1,3 @@
-﻿
-// Задайте значения M и N. Напишите программу, которая выведет все натуральные числа в промежутке от M до N.
-/*
-void ShowNums(int num1, int num2)
-{
-    if(num1 < num2) 
-    {
-        Console.Write(num1 + " ");
-        ShowNums(num1 + 1, num2);
-    }
-    if(num2 < num1)
-    {
-        Console.Write(num1 + " ");
-        ShowNums(num1 - 1, num2);
-    } 
-    else
-    {
-        Console.Write(num2);
-    }
-}
-ShowNums(8, 2);
-*/
-// Напишите программу, которая на вход принимает два числа A и B, и возводит число А в целую степень B.
-/*
-int GetPow(int num1, int num2)
-{
-    if(num2 > 0) return num1 * GetPow(num1, (num2 - 1));
-//    else if (num2 < 0) return ((1/num1) * GetPow(num1, (num2 + 1)));
-    else return 1;
-}
-Console.WriteLine(GetPow(2,-3));
-*/
 
 // Задача 64: Задайте значение N. Напишите программу, которая выведет все натуральные числа в промежутке от N до 1. Выполнить с помощью рекурсии.
 // N = 5 -> "5, 4, 3, 2, 1"
